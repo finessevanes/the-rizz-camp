@@ -9,14 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@worldcoin/idkit": "^1.2.0",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "react-icons": "^5.2.0"
+    "react-icons": "^5.2.0",
+    "react-shadow": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/react": "^18.3.1",
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
