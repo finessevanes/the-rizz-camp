@@ -4,7 +4,7 @@ import React from "react";
 
 const Reviews = () => {
   return (
-    <div className="flex flex-col items-center justify-center bg-black text-white">
+    <div className="flex flex-col items-center justify-center bg-black text-white" style={{ height: "60vh" }} >
       <h1 className="text-3xl font-bold mb-4 mt-16">Reviews</h1>
       <p className="text-center max-w-lg mb-8">
         "Before The Rizz Camp, I had a hard time making eye contact with attractive women, and now I have the confidence to start conversations and make meaningful connections."
@@ -15,7 +15,7 @@ const Reviews = () => {
         </div>
         <div>
           <p className="text-sm font-bold">Future You</p>
-          <p className="text-sm">@rizzdaddy</p>
+          <p className="text-sm text-gray-400">@rizzdaddy</p>
         </div>
       </div>
     </div>
