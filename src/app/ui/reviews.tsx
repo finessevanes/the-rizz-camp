@@ -7,7 +7,7 @@ const Reviews = () => {
     <div className="flex flex-col items-center justify-center bg-black text-white" style={{ height: "60vh" }} >
       <h1 className="text-3xl font-bold mb-4 mt-16">Reviews</h1>
       <p className="text-center max-w-lg mb-8">
-        "Before The Rizz Camp, I had a hard time making eye contact with attractive women, and now I have the confidence to start conversations and make meaningful connections."
+      &apos;Before The Rizz Camp, I had a hard time making eye contact with attractive women, and now I have the confidence to start conversations and make meaningful connections.&apos;
       </p>
       <div className="flex items-center mb-16">
         <div className="rounded-full overflow-hidden w-16 h-16 mr-4">

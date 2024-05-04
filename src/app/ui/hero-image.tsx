@@ -47,14 +47,14 @@ const HeroImage = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen  bg-black text-white font-sans tracking-tight">
       <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold">
-        It's not because you're <span className="text-gray-400">broke</span>
+        It&apos;s not because you&apos;re <span className="text-gray-400">broke</span>
         <br />
-        It's not because you're <span className="text-gray-400">ugly</span>
+        It&apos;s not because you&apos;re <span className="text-gray-400">ugly</span>
         <br />
-        It's not because you're <span className="text-gray-400">short</span>
+        It&apos;s not because you&apos;re <span className="text-gray-400">short</span>
       </h1>
       <p className="mt-8 text-center w-6/12">
-        It's about the skills you haven't learned yet. We’re here to help you
+        It&apos;s about the skills you haven&apos;t learned yet. We&apos;re here to help you
         develop the social skills you need for effective and confident
         communication with women.
       </p>
