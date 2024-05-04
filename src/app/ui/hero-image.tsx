@@ -9,10 +9,7 @@ import type { VerifyReply } from "../api/verify/route";
 const HeroImage = () => {
   const onSuccess = (result: ISuccessResult) => {
     // This is where you should perform frontend actions once a user has been verified, such as redirecting to a new page
-    window.alert(
-      "Successfully verified with World ID! Your nullifier hash is: " +
-        result.nullifier_hash
-    );
+    window.location.href = "https://calendly.com/finessevanes/30min?month=2024-05";
   };
 
   const handleProof = async (result: ISuccessResult) => {
