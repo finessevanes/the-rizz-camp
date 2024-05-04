@@ -1,10 +1,10 @@
 import { NextRequest } from "next/server";
 
-export const config = {
-  api: {
-    externalResolver: true,
-  },
-};
+// export const config = {
+//   api: {
+//     externalResolver: true,
+//   },
+// };
 
 export type VerifyReply = {
   code: string;
