@@ -10,7 +10,7 @@ The Rizz Camp is a mentorship program where tech guys can level up their social 
 🖼️ Most Creative Use Case
 🏊 Pool Prize 
 
-Find the code in `/src/app/api/verify/route.ts` and `/src/app/ui/hero-image`
+Find the code in [/src/app/api/verify/route.ts](./src/app/api/verify/route.ts) and [/src/app/ui/hero-image](./src/app/ui/hero-image)
 
 ### Mantle
 
@@ -22,4 +22,4 @@ Contract deployed: https://explorer.sepolia.mantle.xyz/address/0xAe16663319349Be
 
 🌎 Connect the World with Chainlink
 
-Find the code in `contract/contract.sol`
+Find the code in [/contract/contract.sol](/contract/contract.sol)
